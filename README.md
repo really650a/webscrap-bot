@@ -17,7 +17,7 @@ Simple Telegram webscrap bot
 
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/really650/webscrap-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/really650a/webscrap-bot)
 
 ### License
 
